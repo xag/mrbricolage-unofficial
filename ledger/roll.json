@@ -1,0 +1,12 @@
+[
+  {
+    "path": "the-range-is-read-from-the-public-sitemap",
+    "kind": "decision",
+    "digest": "3073008d65bd"
+  },
+  {
+    "path": "the-range-is-read-from-the-public-sitemap/the-product-pages",
+    "kind": "alternative",
+    "digest": "5bce00246979"
+  }
+]
